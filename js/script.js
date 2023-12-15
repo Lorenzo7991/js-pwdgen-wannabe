@@ -18,3 +18,6 @@ console.log(favColor)
 //(lineup 4.)
 const password = firstName + lastName + favColor + '23';
 console.log(password)
+
+//(lineup 5)
+printer.innerHTML = `<strong>La tua password è:</strong> ${password}`
