@@ -21,3 +21,12 @@ console.log(password)
 
 //(lineup 5)
 printer.innerHTML = `<strong>La tua password è:</strong> ${password}`
+
+/* 
+Personal BONUS: Saluture l'utente quando accede
+ */
+document.getElementById('welcome');
+console.log(welcome);
+
+//Personal BONUS step 2
+welcome.innerHTML = `${firstName} ${lastName}`
