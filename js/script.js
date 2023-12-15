@@ -15,6 +15,6 @@ console.log(lastName)
 let favColor = prompt('Inserisci il tuo Colore preferito:', 'Nero');
 console.log(favColor)
 
-//(lineup 4. & 6.)
+//(lineup 4.)
 const password = nome + cognome + colorePreferito + '23';
 
